@@ -1,7 +1,18 @@
 ---
 name: himalaya
+slug: himalaya
+displayName: Himalaya
+version: 2.2.1
 description: "CLI to manage emails via IMAP/SMTP/JMAP/Gmail/MSGraph/Maildir. Use `himalaya` to list, read, compose, reply, forward, search, and organize emails from the terminal. Supports multiple accounts. Rich composition delegated to mml."
+description_zh: "终端邮件管理 CLI 工具。使用 `himalaya` 在终端中列出、阅读、编写、回复、转发、搜索及整理邮件。支持多账户和 MML（MIME 元语言）编写邮件。Himalaya v2.2.1+ 版本，更新配置格式，支持非交互式撰写。"
 homepage: https://github.com/pimalaya/himalaya
+tags:
+  - email
+  - cli
+  - imap
+  - smtp
+  - mail
+  - mml
 metadata:
   {
     "openclaw":
